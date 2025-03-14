@@ -1,0 +1,2 @@
+[build]
+publish = "public"  # `public` フォルダ内を公開する場合
